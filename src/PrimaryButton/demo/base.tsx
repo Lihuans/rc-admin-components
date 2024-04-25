@@ -6,6 +6,6 @@ import { PrimaryButton } from 'react-admin-components';
 export default () => {
 
   return (
-    <PrimaryButton>默认按钮</PrimaryButton>
+    <PrimaryButton>默认按钮1</PrimaryButton>
   );
 }
