@@ -26,4 +26,4 @@ group: # 分组
 | ---- | ---------------------- | -------- | ---- | ---- |
 | type | 'primary' | 'default' | 'default |  false  | 按钮类型 |
 
-<API id="Button"></API>
+<!-- <API id="Button"></API> -->
